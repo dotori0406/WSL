@@ -115,3 +115,8 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# export LIBGL_ALWAYS_INDIRECT=1
+# export DISPLAY=:0
+# if you need
+# export LANG=en_US.UTF-8
