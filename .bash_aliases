@@ -2,8 +2,8 @@
 # [Prompt & Env. Variables]
 # ----------------------------------------------
 #export	PATH=$PATH:$HOME/utils/riscv/toolchain/bin:$HOME/utils/riscv/bin/
-export	RISCV=/home/woong/projects/cva6/tools/riscv-toolchain
-export	VERILATOR_ROOT=/home/woong/projects/cva6/tools/verilator
+#export	RISCV=/home/woong/projects/cva6/tools/riscv-toolchain
+#export	VERILATOR_ROOT=/home/woong/projects/cva6/tools/verilator
 #export	OSS_CAD_SUITE=
 #export	PATH=$RISCV_ROOT/bin:$VERILATOR_ROOT/bin:$PATH:$OSS_CAD_SUITE/bin:~/.local/bin
 #export	PATH=$RISCV_ROOT/bin:$VERILATOR_ROOT/bin:$PATH:$OSS_CAD_SUITE/bin:~/.local/bin
