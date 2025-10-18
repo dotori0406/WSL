@@ -120,3 +120,12 @@ fi
 # export DISPLAY=:0
 # if you need
 # export LANG=en_US.UTF-8
+
+# pyenv 설정
+# export PYENV_ROOT="$HOME/.pyenv"
+# command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
+# eval "$(pyenv init -)"
+
+# my short key
+# alias arduino='/home/sehyun/arduino_2.1.0/arduino-ide_2.1.0_Linux_64bit/arduino-ide'
+
