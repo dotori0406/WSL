@@ -1,0 +1,15 @@
+[
+  {
+    "directory": "/home/sehyun/projects/DFG_transfer/dfg_0",
+    "arguments": [
+      "/tools/Xilinx/2025.1/Vitis/vcxx/libexec/clang++",
+      "--gcc-toolchain=/tools/Xilinx/2025.1/Vitis/tps/lnx64/gcc-8.3.0",
+      "-fhls",
+      "-hls-syn-headers-dir=/tools/Xilinx/2025.1/Vitis/common/technology/autopilot",
+      "-fhlstoplevel=fn1",
+      "-c",
+      "/home/sehyun/projects/DFG_transfer/dfg_0/../dfg_0.c"
+    ],
+    "file": "/home/sehyun/projects/DFG_transfer/dfg_0/../dfg_0.c"
+  }
+]

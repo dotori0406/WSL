@@ -1,0 +1,3 @@
+relativeroot=/home/sehyun/projects/DFG_transfer/dfg_0
+original_argv=-c --mode hls --config /home/sehyun/projects/DFG_transfer/dfg_0/hls_config.cfg --work_dir fn1 
+
